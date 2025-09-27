@@ -1,7 +1,7 @@
 class Uninstallr < Formula
   desc "Modern lightweight app uninstaller for macOS"
   homepage "https://github.com/oguzcamurr/uninstallr"
-  url "https://github.com/oguzcamurr/uninstallr/archive/refs/tags/v0.1.0.tar.gz"
+  url "https://github.com/oguzcamurr/uninstallr/releases/download/v0.1.0/uninstallr-v0.1.0.tar.gz"
   sha256 "cfe73e2223f09f07af43244b7ffd733b530d45fe65db8b0c2286b7a538b0906f"
   license "MIT"
 
